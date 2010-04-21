@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3069
+
+Adds syntax highlighting for the Slidedown presentation software (http://github.com/nakajima/slidedown).  Requires that some Markdown syntax file be available.
